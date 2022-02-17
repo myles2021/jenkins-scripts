@@ -19,8 +19,8 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 #retrieve your public IP address
 curl ifconfig.me
 
-#Go to your public IP on 8000
-http://<publicIP>:8000
+#Go to your public IP on 8080
+http://<publicIP>:8080
 
 # Enter the password retrieved earlier
 
